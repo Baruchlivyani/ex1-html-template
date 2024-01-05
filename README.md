@@ -1,7 +1,7 @@
 # html-template
 A started template for HTML project
 
-<h1>Baruch Leviani</h1>
+<h1> Baruch Leviani </h1>
 <p>baruchle@edu.hac.ac.il</p>
 
 <h1>Execution</h1>
